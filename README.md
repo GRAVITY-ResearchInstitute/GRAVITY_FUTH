@@ -1,1 +1,1 @@
-GRAVITY_FUTH—InstructionManual
+GRAVITY_FUTH
